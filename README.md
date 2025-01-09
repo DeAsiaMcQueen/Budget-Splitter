@@ -35,7 +35,7 @@ To run this project, you need the following:
 5. Split your budget among multiple people and view individual contributions.
 6. Visualize your budget distribution with the pie chart feature.
 ## Screenshots
-![Intital screen](BS-initalscreen.png)
+![Intital screen](BS-initialscreen.png)
 ![State taxes](BS-taxes.png)
 ![Inflation](BS-inflation.png)
 ![Budget split](BS-splits.png)
