@@ -5,7 +5,7 @@ Budget Splitter is a user-friendly application designed to help individuals and 
 - Tax Calculation: Calculate state and federal taxes based on your location.
 - Inflation Prediction: Predict future budget requirements with inflation adjustments.
 - Custom Budget Categories**: Add and allocate amounts for custom budget categories.
-- **Expense Splitting: Split monthly budgets among multiple people for shared expenses like rent or bills.
+- Expense Splitting: Split monthly budgets among multiple people for shared expenses like rent or bills.
 - Visualization: View budget allocation with dynamic pie charts.
 - State-Specific Tax Rates: Accurate tax rates for all U.S. states and territories.
 ## Requirements
