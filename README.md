@@ -1,4 +1,14 @@
 # Budget Splitter
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://github.com/DeAsiaMcQueen/budget-splitter/actions/workflows/python-app.yml/badge.svg)
+![Code Quality](https://img.shields.io/codefactor/grade/github/DeAsiaMcQueen/budget-splitter)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Issues](https://img.shields.io/github/issues/DeAsiaMcQueen/budget-splitter)
+![Pull Requests](https://img.shields.io/github/issues-pr/DeAsiaMcQueen/budget-splitter)
+![GitHub stars](https://img.shields.io/github/stars/DeAsiaMcQueen/budget-splitter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DeAsiaMcQueen/budget-splitter?style=social)
+A versatile budget management tool for splitting expenses, predicting inflation, and calculating state and federal taxes.
 Budget Splitter is a user-friendly application designed to help individuals and groups manage their budgets effectively. It includes tax calculation, inflation predictions, customizable budget categories, and expense splitting.
 ## Features
 - Monthly Income Management: Input your monthly income and plan expenses accordingly.
